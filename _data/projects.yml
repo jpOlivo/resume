@@ -1,0 +1,84 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+# Citi Projects
+- project: IVR apps migration
+  role: Architect & Developer
+  duration: 2009 &mdash; Present
+  # url: "#"
+  description: Multiple IVR apps for both consumer and corporate bank of MEXICO and LATAM regions. The development involved a line of product that has serves as baseline for the development of several IVR apps with minimum effort.
+  
+- project: IVR Manager
+  role: Tech Lead & Developer
+  duration: 2009 &mdash; Present
+  # url: "#"
+  description: A web app for the management and configuration of business rules on IVR solutions.
+
+- project: IVR Tool Suite
+  role: Tech Lead & Developer
+  duration: 2009 &mdash; Present
+  # url: "#"
+  description: A tool suite composed by multiple web apps, services, plugins, templates, etc. used by developing teams in order automate tasks, agile the development, etc.
+
+# Osde Projects
+- project: Integra-BAM
+  role: Technical Analyst & Developer
+  duration: 2007 &mdash; 2009
+  # url: "#"
+  description: a Dashboard for monitoring operational metrics and in this way contributes to decision making of senior management. The implementation consisted of Portal implemented with Portlets and a DataWarehouse mounted on relational database.
+
+- project: Integra-Warehouse
+  role: Technical Analyst & Developer
+  duration: 2007 &mdash; 2009
+  # url: "#"
+  description: A DataWarehouse mounted on relational database for integrates business information originating from several sources.
+  
+- project: Osde-Framework
+  role: Developer
+  duration: 2007 &mdash; 2009
+  # url: "#"
+  description: A framework for development of Enterprise apps. It provides support for multiple layers as front-end, back-end, middleware, etc.
+    
+# TopGroup Projects
+- project: TradeTrack
+  role: Technical Analyst & Developer
+  duration: 2006 &mdash; 2007
+  # url: "#"
+  description: A web app for management of retail products imports.
+
+- project: Marketing-Workflow
+  role: Developer
+  duration: 2006 &mdash; 2007
+  # url: "#"
+  description: A workflow implemented on a web app for marketing campaigns management of retailing client.
+
+- project: Referential-Workflow
+  role: Developer
+  duration: 2006 &mdash; 2007
+  # url: "#"
+  description: A workflow implemented on a web app for items management, deals, and commercial transactions of retailing client.  
+
+- project: Wavecode PathFinder
+  role: Developer
+  duration: 2006 &mdash; 2007
+  url: "http://site2.wavecode.com/our-products/pathfinder/"
+  description: A product for analyze the routing of calls performed by telco companies  
+
+# Indra Projects  
+- project: BSE
+  role: Developer
+  duration: 2005 &mdash; 2006
+  # url: "#"
+  description: A web app for a bank entity able integrated with business logic implemented on stored procedures.
+  
+- project: RSF
+  role: Developer
+  duration: 2005 &mdash; 2006
+  # url: "#"
+  description: Desktop app for a Telco company implemented on Java Swing.
+  
+- project: GIAC
+  role: Developer
+  duration: 2005 &mdash; 2006
+  # url: "#"
+  description: Web app for analysis of incidents referrals to QA process.  

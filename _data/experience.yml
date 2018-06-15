@@ -1,0 +1,24 @@
+# Jobs
+# Software Architect
+- company: Citibank
+  position: Software Architect
+  duration: Jan, 2009 &mdash; Present
+  summary: <p>Technical Manager responsible of design, development, integration and implementation of all apps developed by the IVR LATAM software factory.</p><p>Main responsibilities&#58;</p> <ul class="resume-item-list"><li>Carry forward the integration and design of IVR Solution and achieve the technical engagement of all the teams involved (Development, DevOps, VoiceOps, etc.).</li><li>Lead the decisions of high level technical design.</li><li>Identify and ensure non-functional requirements compliance.</li><li>Perform analysis of technical feasibility.</li><li>Communicate technical design decisions to all stakeholders.</li><li>Validate the architecture against requirements, assumptions and standards established by Bank.</li><li>Ensure the correct implementation of the architecture for IVR Applications.</li><li>Define interfaces for integrates with others solutions or subsystems.</li><li>Technology mentor.</li><li>Design and implement proof of concepts for the creation and integration of new components, architectural approaches and frameworks.</li><li>Elaborate guidelines and standards of development.</li><li>Drive and lead the QA activities.</li></ul>
+  
+# Technical Analyst of OSDE
+- company: Osde
+  position: Technical Analyst
+  duration:  Oct, 2007 &mdash; Jan, 2009
+  summary: <p>Technical analyst and primary developer of a Dashboard addressed to senior management for monitoring operational metrics. Contributor of enterprise development framework.</p><p>Main responsibilities&#58;</p> <ul class="resume-item-list"><li>Perform analysis technical feasibility.</li><li>Identify non-functional requirements and constraints.</li><li>Technical design and development of core components.</li><li>Participate in elaboration both detailed as high level design.</li></ul>
+
+  # Java Software Developer
+- company: TopGroup
+  position: Developer
+  duration:   May, 2006  &mdash; Oct, 2007
+  summary: <p>Developer of several apps for manage the workflows of retailing client and a product for analyze the routing of calls performed by Telco companies.</p><p>Main responsibilities&#58;</p> <ul class="resume-item-list"><li>Encode the product according to norms and standards defined.</li><li>Run unit tests and integration.</li><li>Verify and fix incidents.</li><li>Deliver a product capable of being deployed in multiple environments.</li></ul>
+  
+# Java Software Developer
+- company: Indra
+  position: Developer
+  duration:   Jun, 2005  &mdash; May, 2006
+  summary:   <p>Developer of a desktop app for a Telco company. Developer and primary contributor on integration of a web app for a bank entity.</p><p>Main responsibilities&#58;</p> <ul class="resume-item-list"><li>Encode the product according to norms and standards defined.</li><li>Run unit tests and integration.</li><li>Verify and fix incidents.</li><li>Deliver a product capable of being deployed in multiple environments.</li><li>Ensure the correct integration of apps developed.</li></ul>
