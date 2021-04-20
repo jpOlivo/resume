@@ -3,13 +3,13 @@
   summary: Java, Javascript, Scala, Python, Smalltalk, C++, Prolog, Haskell, Pascal and C.
 
 - category: Java Frameworks and Libraries
-  summary: Struts, Echo3, ZK, Hibernate, Spring, Spring Webflow, Spring Boot, Castor, X-Stream, Quartz, Dozer, Jfreechart, Jmesa.   
+  summary: Spring Boot, Struts, Echo3, ZK, Hibernate, Spring, Spring Webflow, Castor, X-Stream, Quartz, Dozer, Jfreechart, Jmesa.   
    
 #- category: J2EE
 #  summary: JDBC, Swing, JNDI, JCE, JMS, JavaMail, EJB, Servlets, Portlets   
   
 - category: Managers Software Configuration and Changes
-  summary: SVN, RTC, Git, Microsoft Visual Sourcesafe, Borland Star Team, BitKeeper, Bitbucket, Jira, ServiceNow.
+  summary: Git, SVN, RTC, Microsoft Visual Sourcesafe, Borland Star Team, BitKeeper, Bitbucket, Jira, ServiceNow.
 
 - category: Middlewares
   summary: IBM WebSphere, JBoos, Jetspeed Portals, Tomcat, ActiveMQ.
@@ -36,7 +36,7 @@
   summary: AWS, Heroku    
   
 - category: Others Development Tools
-  summary: Maven, Ant, Velocity, Apache Zeppelin, Apache Spark, Swagger. 
+  summary: Maven, Ant, Velocity, Apache Zeppelin, Apache Spark, Swagger.
 
 #  I am familiar with design patterns and frameworks both front-end and back-end.  
 #  Also, I am familiar with several Operating Systems and Databases.
