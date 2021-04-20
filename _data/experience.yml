@@ -1,8 +1,20 @@
 # Jobs
 # Software Architect
+- company: Naranja X
+  position: Software Architect
+  duration: Apr, 2020 &mdash; Present
+  summary: <p>Software Architect responsible to address technical solutions for several verticals of product. Primary contributor concerning definition of guides and standards in order to make consistent the building of microservices.</p><p>Main responsibilities&#58;</p> <ul class="resume-item-list"><li>Identifying business drivers and quality attributes.</li><li>Address and lead technical solutions.</li><li>Resolve technical problems and perform code-review.</li><li>Resolve disputes and make tradeoffs.</li><li>Hands-on work in terms of developing prototypes, contributing code or evaluating technologies.</li><li>Technical support and mentoring.</li><li>Architectural review.</li><li>Contribute making technical roadmap and governance practices.</li></ul>
+
+# Teach Lead
+- company: Globant
+  position: Software Architect
+  duration: Ago, 2019 &mdash; Apr, 2020
+  summary: <p>Accountable for leading and align the technical direction of a cross-functional team on building a Digital eXperience Platform.</p><p>Main responsibilities&#58;</p> <ul class="resume-item-list"><li>Contribute to the development of product technical design.</li><li>Ensure teams make progress and guarantee product quality.</li><li>Communicate project and team status.</li><li>Coordinate and partner with additional business units and teams.</li><li>Perform code reviews.</li><li>Manage Technical Debt.</li><li>Mentorship.</li></ul>
+
+# Software Architect
 - company: Citibank
   position: Software Architect
-  duration: Jan, 2009 &mdash; Present
+  duration: Jan, 2009 &mdash; Aug, 2018
   summary: <p>Technical Manager responsible of design, development, integration and implementation of all apps developed by the IVR LATAM software factory.</p><p>Main responsibilities&#58;</p> <ul class="resume-item-list"><li>Carry forward the integration and design of IVR Solution and achieve the technical engagement of all the teams involved (Development, DevOps, VoiceOps, etc.).</li><li>Lead the decisions of high level technical design.</li><li>Identify and ensure non-functional requirements compliance.</li><li>Perform analysis of technical feasibility.</li><li>Communicate technical design decisions to all stakeholders.</li><li>Validate the architecture against requirements, assumptions and standards established by Bank.</li><li>Ensure the correct implementation of the architecture for IVR Applications.</li><li>Define interfaces for integrates with others solutions or subsystems.</li><li>Technology mentor.</li><li>Design and implement proof of concepts for the creation and integration of new components, architectural approaches and frameworks.</li><li>Elaborate guidelines and standards of development.</li><li>Drive and lead the QA activities.</li></ul>
   
 # Technical Analyst of OSDE

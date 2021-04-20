@@ -1,22 +1,38 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
+# Nx Projects
+- project: Naranja X
+  role: Architect
+  duration: 2020 &mdash; Present
+  url: "https://naranjax.com/#descarga"
+  description: A digital wallet which enables to users collect and pay, money transfer, services payment, etc.
+  
+
+# Globant Projects
+- project: DXP
+  role: Tech Lead
+  duration: 2019 &mdash; 2020
+  # url: "#"
+  description: A digital experience platform which enables access to different products of across multiple interaction channels.
+  
+
 # Citi Projects
 - project: IVR apps migration
   role: Architect & Developer
-  duration: 2009 &mdash; Present
+  duration: 2009 &mdash; 2018
   # url: "#"
   description: Multiple IVR apps for both consumer and corporate bank of MEXICO and LATAM regions. The development involved a line of product that has serves as baseline for the development of several IVR apps with minimum effort.
   
 - project: IVR Manager
   role: Tech Lead & Developer
-  duration: 2009 &mdash; Present
+  duration: 2009 &mdash; 2018
   # url: "#"
   description: A web app for the management and configuration of business rules on IVR solutions.
 
 - project: IVR Tool Suite
   role: Tech Lead & Developer
-  duration: 2009 &mdash; Present
+  duration: 2009 &mdash; 2018
   # url: "#"
   description: A tool suite composed by multiple web apps, services, plugins, templates, etc. used by developing teams in order automate tasks, agile the development, etc.
 

@@ -15,13 +15,13 @@
   summary: IBM WebSphere, JBoos, Jetspeed Portals, Tomcat, ActiveMQ.
   
 - category: Continuos Integration - Continuous Delivery
-  summary: Jenkins.   
+  summary: Jenkins, Gitlab.   
   
 - category: Quality Assurance Tools
   summary: Sonar, Junit, Selenium.   
   
 - category: Databases
-  summary: Oracle, MySQL, PostgreSQL, MongoDB.  
+  summary: Oracle, MySQL, PostgreSQL, MongoDB, DynamoDB, Redis. 
 
 - category: IDEs
   summary: Eclipse, JBuilder, JDeveloper, Atom, VisualStudio. 
@@ -30,7 +30,10 @@
   summary: Unix/Linux, Windows.
   
 - category: DevOps
-  summary: Vagrant, Docker.    
+  summary: Vagrant, Docker Containers, Kubernetes, Knative, Helm, Openshift. 
+  
+- category: Cloud
+  summary: AWS, Heroku    
   
 - category: Others Development Tools
   summary: Maven, Ant, Velocity, Apache Zeppelin, Apache Spark, Swagger. 

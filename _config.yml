@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Juan Olivera"
-resume_title:                   "Full Stack Developer"
+resume_title:                   "Software Architect"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "juam17@gmail.com"
@@ -23,7 +23,7 @@ resume_contact_address:         "Buenos Aires, Argentina"
 resume_header_contact_info:     "Buenos Aires, Argentina • (+54) 911 6366 8353 • juam17@gmail.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>Software Engineer with a MSc in Software Architecture and 13+ years of experience developing Information Systems. I tech passionate and I love to learn, developing and enhance consumer experiences and the products, from both functional and technical aspects.</p><p>I participated in diverse software projects, both small products and software large-scale development, getting involve me in all aspects of the software product life cycle, from requirements identification until implementation and evolution of systems in production.</p><p>I have worked with many technologies and paradigms, also with distinct development methodologies and on several business domains: Banking, Healthcare, Retailing, Telecommunications, etc.</p><p>Particularly interested in Software Architecture, Design and Development of Web Applications, SOA, Big Data, DevOps, and Agile software development. Always interested in object oriented technology, mostly with Java and associated frameworks.</p>"
+resume_header_intro: "<p>Hands-on Software Architect with 15+ years of experience building and leading software products.</p><p>Passionate about resolving problem and technical challenges. Strong team member, fast learner and self-motivated.</p><p>Specialties: Software Architecture, Design and Development of Web Applications, Microservices, BigData, DevOps, Cloud Computing, and Agile Software Development.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
